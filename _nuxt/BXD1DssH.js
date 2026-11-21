@@ -1,0 +1,1 @@
+function e(e){return Number.isFinite(e)?`${(e/1024/1024).toFixed(1)} MB`:``}function t(e){return e?e.slice(0,10):``}function n(e,t=`操作失败，请稍后再试。`){let n=e;return n?.data?.detail||n?.data?.message||n?.message||t}export{t as n,e as r,n as t};

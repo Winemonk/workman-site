@@ -1,0 +1,1 @@
+import{o as e}from"./Ih6uCAMn.js";import{s as t}from"#entry";function n(){return(e().app.baseURL||`/`).replace(/\/$/,``)}function r(r,i){let a=e().public.apiBaseUrl||n();return t(`${a}${r}`,i)}function i(){let e=n();return t=>`${e}${t}`}export{i as n,r as t};
