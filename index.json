@@ -1,6 +1,100 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T00:00:00Z",
-  "host": null,
-  "hostVersions": []
+  "updatedAt": "2026-11-24T01:38:43Z",
+  "host": {
+    "version": "0.0.1",
+    "releasedAt": "2026-11-24T01:38:43Z",
+    "notes": "首个版本。",
+    "packages": [
+      {
+        "rid": "win-x64",
+        "platform": "Windows",
+        "arch": "x64",
+        "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/Workman-0.0.1-win-x64.zip",
+        "size": 81047426,
+        "sha256": "6463e0005d14951f646574521fe44267513ec4f25f6a8aef5d8c940088e90530"
+      },
+      {
+        "rid": "linux-x64",
+        "platform": "Linux",
+        "arch": "x64",
+        "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/Workman-0.0.1-linux-x64.zip",
+        "size": 52492435,
+        "sha256": "8fda767915082d9265e2e51fb72e44caeeb7dc4803f51a89ac1aaa9ee174e568"
+      },
+      {
+        "rid": "linux-x64-deb",
+        "platform": "Linux",
+        "arch": "x64 (deb)",
+        "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/workman_0.0.1_amd64.deb",
+        "size": 53736278,
+        "sha256": "21ba2708faafcf6c4eae870d894698787c8f68278d471516572611706553bccd"
+      },
+      {
+        "rid": "linux-x64-rpm",
+        "platform": "Linux",
+        "arch": "x64 (rpm)",
+        "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/workman-0.0.1-1.x86_64.rpm",
+        "size": 55060600,
+        "sha256": "805cfa25aadbd088f7775e14bf34a82a65a0d1d41d406aca5ae796485ecdf192"
+      },
+      {
+        "rid": "win-x64-setup",
+        "platform": "Windows",
+        "arch": "x64 (安装器)",
+        "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/Workman-0.0.1-setup.exe",
+        "size": 57650170,
+        "sha256": "3ee3b3e83535fc6960ffe1f8c9bd9859c6c5e765ae7e53eceb51beeeeebfa625"
+      }
+    ]
+  },
+  "hostVersions": [
+    {
+      "version": "0.0.1",
+      "releasedAt": "2026-11-24T01:38:43Z",
+      "notes": "首个版本。",
+      "packages": [
+        {
+          "rid": "win-x64",
+          "platform": "Windows",
+          "arch": "x64",
+          "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/Workman-0.0.1-win-x64.zip",
+          "size": 81047426,
+          "sha256": "6463e0005d14951f646574521fe44267513ec4f25f6a8aef5d8c940088e90530"
+        },
+        {
+          "rid": "linux-x64",
+          "platform": "Linux",
+          "arch": "x64",
+          "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/Workman-0.0.1-linux-x64.zip",
+          "size": 52492435,
+          "sha256": "8fda767915082d9265e2e51fb72e44caeeb7dc4803f51a89ac1aaa9ee174e568"
+        },
+        {
+          "rid": "linux-x64-deb",
+          "platform": "Linux",
+          "arch": "x64 (deb)",
+          "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/workman_0.0.1_amd64.deb",
+          "size": 53736278,
+          "sha256": "21ba2708faafcf6c4eae870d894698787c8f68278d471516572611706553bccd"
+        },
+        {
+          "rid": "linux-x64-rpm",
+          "platform": "Linux",
+          "arch": "x64 (rpm)",
+          "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/workman-0.0.1-1.x86_64.rpm",
+          "size": 55060600,
+          "sha256": "805cfa25aadbd088f7775e14bf34a82a65a0d1d41d406aca5ae796485ecdf192"
+        },
+        {
+          "rid": "win-x64-setup",
+          "platform": "Windows",
+          "arch": "x64 (安装器)",
+          "url": "https://github.com/Winemonk/workman-home/releases/download/v0.0.1/Workman-0.0.1-setup.exe",
+          "size": 57650170,
+          "sha256": "3ee3b3e83535fc6960ffe1f8c9bd9859c6c5e765ae7e53eceb51beeeeebfa625"
+        }
+      ]
+    }
+  ]
 }

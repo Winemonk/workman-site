@@ -1,19 +1,79 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-11-21T09:51:38Z",
+    "updatedAt":  "2026-11-24T10:44:17Z",
     "modules":  [
+                    {
+                        "id":  "WorkDesktopModule",
+                        "name":  "桌面",
+                        "enabled":  true,
+                        "versions":  [
+                                         {
+                                             "version":  "0.0.1",
+                                             "url":  "https://github.com/Winemonk/workman-plugin-marketplace/releases/download/v0.0.1/WorkDesktopModule-0.0.1.zip",
+                                             "size":  728051,
+                                             "sha256":  "6aafe5e4e5580a97fa16dad43f3294896bf143a2ededf860c83eec843d6cc229",
+                                             "minHostVersion":  "0.0.1",
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
+                                         }
+                                     ]
+                    },
+                    {
+                        "id":  "WorkEverythingModule",
+                        "name":  "文件浏览",
+                        "enabled":  true,
+                        "versions":  [
+                                         {
+                                             "version":  "0.0.1",
+                                             "url":  "https://github.com/Winemonk/workman-plugin-marketplace/releases/download/v0.0.1/WorkEverythingModule-0.0.1.zip",
+                                             "size":  959478,
+                                             "sha256":  "b4fdcca74e0c407ea2351c5419b765123682fee7926cb8983156bb440612b01e",
+                                             "minHostVersion":  "0.0.1",
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
+                                         }
+                                     ]
+                    },
                     {
                         "id":  "WorkLogModule",
                         "name":  "日志",
                         "enabled":  true,
                         "versions":  [
                                          {
-                                             "version":  "1.0.2",
-                                             "url":  "http://81.69.250.66/workman/api/modules/WorkLogModule/versions/1.0.2/download",
-                                             "size":  236,
-                                             "sha256":  "1d95c923716f1258d370c42fc3f4fb55da63933c1cd1dae1f9122a047f5738cd",
-                                             "minHostVersion":  "1.0.2",
-                                             "releasedAt":  "2026-11-21T09:51:37Z"
+                                             "version":  "0.0.1",
+                                             "url":  "https://github.com/Winemonk/workman-plugin-marketplace/releases/download/v0.0.1/WorkLogModule-0.0.1.zip",
+                                             "size":  104940,
+                                             "sha256":  "c01ed38a5e9a59f24abe992f8605521383f195431922f278e57dc48e759a2e42",
+                                             "minHostVersion":  "0.0.1",
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
+                                         }
+                                     ]
+                    },
+                    {
+                        "id":  "WorkReminderModule",
+                        "name":  "提醒",
+                        "enabled":  true,
+                        "versions":  [
+                                         {
+                                             "version":  "0.0.1",
+                                             "url":  "https://github.com/Winemonk/workman-plugin-marketplace/releases/download/v0.0.1/WorkReminderModule-0.0.1.zip",
+                                             "size":  65567,
+                                             "sha256":  "a983ce8bb93815c3632257a348b9a2b91f28f0275b81cdf7fabb220567ca2f3c",
+                                             "minHostVersion":  "0.0.1",
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
+                                         }
+                                     ]
+                    },
+                    {
+                        "id":  "WorkWebsiteModule",
+                        "name":  "网址收藏",
+                        "enabled":  true,
+                        "versions":  [
+                                         {
+                                             "version":  "0.0.1",
+                                             "url":  "https://github.com/Winemonk/workman-plugin-marketplace/releases/download/v0.0.1/WorkWebsiteModule-0.0.1.zip",
+                                             "size":  1291099,
+                                             "sha256":  "2c3e7bf0aceb0773f8279f3631241f8d1831cde00ba613ba8354f0f1ef8d46c9",
+                                             "minHostVersion":  "0.0.1",
+                                             "releasedAt":  "2026-11-24T10:44:17Z"
                                          }
                                      ]
                     }
